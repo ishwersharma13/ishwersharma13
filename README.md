@@ -3,7 +3,7 @@ Aspiring Front-end Web Developer
 
 🌱 I’m currently learning Node
 
-💬 Ask me about HTML, CSS, JS, ChakraUI,MongoDB,Firebase,React
+💬 Ask me about HTML5, CSS, JS, ChakraUI, MongoDB, Firebase, React, Tailwind CSS, Bootstrap
 
 📫 How to reach me Ishwersharma13@gmail.com,
 
