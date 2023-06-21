@@ -26,7 +26,7 @@ Aspiring Front-end Web Developer
 
 📫 How to reach me Ishwersharma13@gmail.com,
 
-Linkedin:- https://www.linkedin.com/in/ishwer-sharma/
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) Linkedin:- https://www.linkedin.com/in/ishwer-sharma/
 
 Portfolio:-https://frolicking-scone-6a7be0.netlify.app/
 
