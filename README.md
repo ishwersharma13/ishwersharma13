@@ -11,3 +11,4 @@ Aspiring Front-end Web Developer
 Linkidin:- https://www.linkedin.com/in/ishwer-sharma/
 
 Portfolio:- https://legendary-toffee-a88f9d.netlify.app/
+Website Gmail GitHub LinkedIn Instagram Twitter
