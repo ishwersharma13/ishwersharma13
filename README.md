@@ -28,10 +28,8 @@ Aspiring Front-end Web Developer
 
 Linkedin:- https://www.linkedin.com/in/ishwer-sharma/
 
-Portfolio:- [https://legendary-toffee-a88f9d.netlify.app/](https://frolicking-scone-6a7be0.netlify.app)
+Portfolio:-https://frolicking-scone-6a7be0.netlify.app/
 
-
-[![Ishwer’s github stats](https://github-readme-stats.vercel.app/api?username=ishwersharma13)](https://github.com/ishwersharma13)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwersharma13&layout=compact)](https://github.com/ishwersharma13)
 
