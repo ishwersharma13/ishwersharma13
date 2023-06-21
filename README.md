@@ -30,6 +30,7 @@ Linkedin:- https://www.linkedin.com/in/ishwer-sharma/
 
 Portfolio:-https://frolicking-scone-6a7be0.netlify.app/
 
+Know about my experience:- https://drive.google.com/file/d/1oDSuP9FaY2m0vQPdYD28ZoBFRCm2lIRD/view?usp=sharing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwersharma13&layout=compact)](https://github.com/ishwersharma13)
 
