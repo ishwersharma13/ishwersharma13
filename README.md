@@ -28,3 +28,7 @@ Portfolio:- https://legendary-toffee-a88f9d.netlify.app/
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+[![Ishwer’s github stats](https://github-readme-stats.vercel.app/api?username=ishwersharma13)](https://github.com/ishwersharma13)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwersharma13&layout=compact)](https://github.com/ishwersharma13)
+
