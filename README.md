@@ -26,13 +26,11 @@ Aspiring Front-end Web Developer
 
 📫 How to reach me Ishwersharma13@gmail.com,
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) Linkedin:- https://www.linkedin.com/in/ishwer-sharma/
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/ishwer-sharma/
 
-Portfolio:-https://frolicking-scone-6a7be0.netlify.app/
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)-https://frolicking-scone-6a7be0.netlify.app/
 
-Know about my experience:- https://drive.google.com/file/d/1oDSuP9FaY2m0vQPdYD28ZoBFRCm2lIRD/view?usp=sharing
-
-Connect with me: https://www.linkedin.com/in/ishwer-sharma/                                                        
+Know about my experience:- ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) https://drive.google.com/file/d/1oDSuP9FaY2m0vQPdYD28ZoBFRCm2lIRD/view?usp=sharing                                                       
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwersharma13&layout=compact)](https://github.com/ishwersharma13)
 
