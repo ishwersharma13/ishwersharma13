@@ -32,6 +32,8 @@ Portfolio:-https://frolicking-scone-6a7be0.netlify.app/
 
 Know about my experience:- https://drive.google.com/file/d/1oDSuP9FaY2m0vQPdYD28ZoBFRCm2lIRD/view?usp=sharing
 
+Connect with me: https://www.linkedin.com/in/ishwer-sharma/                                                        
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwersharma13&layout=compact)](https://github.com/ishwersharma13)
 
 ![streak](https://camo.githubusercontent.com/3e3c88a34b1c5e929d9963612ae7c9220364c7fc5decf9fb59f321c23a3c928b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d64657673687275746926)
