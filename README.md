@@ -32,3 +32,5 @@ Portfolio:- https://legendary-toffee-a88f9d.netlify.app/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwersharma13&layout=compact)](https://github.com/ishwersharma13)
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/).[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ishwersharma13.ishwersharma13)]([https://www.yushi.dev/](https://frolicking-scone-6a7be0.netlify.app)https://frolicking-scone-6a7be0.netlify.app))]([https://www.yushi.dev/](https://frolicking-scone-6a7be0.netlify.app)https://frolicking-scone-6a7be0.netlify.app)
+
