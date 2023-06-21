@@ -4,14 +4,7 @@ Aspiring Front-end Web Developer
 
 🌱 I’m currently learning Node
 
-💬 Ask me about HTML5, CSS, JS, ChakraUI, MongoDB, Firebase, React, Tailwind CSS, Bootstrap
-
-📫 How to reach me Ishwersharma13@gmail.com,
-
-Linkedin:- https://www.linkedin.com/in/ishwer-sharma/
-
-Portfolio:- https://legendary-toffee-a88f9d.netlify.app/
-
+💬 Ask me about 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
@@ -28,9 +21,15 @@ Portfolio:- https://legendary-toffee-a88f9d.netlify.app/
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+📫 How to reach me Ishwersharma13@gmail.com,
+
+Linkedin:- https://www.linkedin.com/in/ishwer-sharma/
+
+Portfolio:- [https://legendary-toffee-a88f9d.netlify.app/](https://frolicking-scone-6a7be0.netlify.app)
+
+
 [![Ishwer’s github stats](https://github-readme-stats.vercel.app/api?username=ishwersharma13)](https://github.com/ishwersharma13)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwersharma13&layout=compact)](https://github.com/ishwersharma13)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/).[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ishwersharma13.ishwersharma13)]([https://www.yushi.dev/](https://frolicking-scone-6a7be0.netlify.app)https://frolicking-scone-6a7be0.netlify.app))]([https://www.yushi.dev/](https://frolicking-scone-6a7be0.netlify.app)https://frolicking-scone-6a7be0.netlify.app)
 
