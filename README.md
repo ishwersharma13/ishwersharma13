@@ -33,7 +33,7 @@ Aspiring Front-end Web Developer
 
 ## Resume
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-https://drive.google.com/file/d/1oDSuP9FaY2m0vQPdYD28ZoBFRCm2lIRD/view?usp=sharing                                                       
+[https://drive.google.com/file/d/1oDSuP9FaY2m0vQPdYD28ZoBFRCm2lIRD/view?usp=sharing  ](https://drive.google.com/file/d/1qB60CqpogvhPpRoQ6IBpYnWO_0UeFFU7/view?usp=sharing)                                                     
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwersharma13&layout=compact)](https://github.com/ishwersharma13)
 
