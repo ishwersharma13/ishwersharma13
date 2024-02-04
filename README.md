@@ -29,11 +29,7 @@ Aspiring Front-end Web Developer
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/ishwer-sharma/
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)[https://frolicking-scone-6a7be0.netlify.app/](https://ishwersharma13.github.io)
-
-
-## Resume
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-[https://drive.google.com/file/d/1oDSuP9FaY2m0vQPdYD28ZoBFRCm2lIRD/view?usp=sharing  ](https://drive.google.com/file/d/1qB60CqpogvhPpRoQ6IBpYnWO_0UeFFU7/view?usp=sharing)                                                     
+                                                    
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwersharma13&layout=compact)](https://github.com/ishwersharma13)
 
